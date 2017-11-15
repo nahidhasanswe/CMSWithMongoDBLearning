@@ -1,0 +1,14 @@
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\bin\Debug\BLL.dll
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\bin\Debug\BLL.pdb
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\bin\Debug\RepositoryPattern.dll
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\bin\Debug\MongoDB.Bson.dll
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\bin\Debug\RepositoryPattern.pdb
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\bin\Debug\MongoDB.Driver.xml
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\bin\Debug\MongoDB.Bson.xml
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\obj\Debug\BLL.dll
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\BLL\obj\Debug\BLL.pdb

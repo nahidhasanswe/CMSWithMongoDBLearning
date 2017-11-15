@@ -1,0 +1,13 @@
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\RepoPattern\obj\Debug\netstandard2.0\RepoPattern.csprojResolveAssemblyReference.cache
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\RepoPattern\obj\Debug\netstandard2.0\RepoPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\RepoPattern\obj\Debug\netstandard2.0\RepoPattern.AssemblyInfoInputs.cache
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\RepoPattern\obj\Debug\netstandard2.0\RepoPattern.AssemblyInfo.cs
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\RepoPattern\bin\Debug\netstandard2.0\RepoPattern.deps.json
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\RepoPattern\bin\Debug\netstandard2.0\RepoPattern.dll
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\RepoPattern\bin\Debug\netstandard2.0\RepoPattern.pdb
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\RepoPattern\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\RepoPattern\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\RepoPattern\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\RepoPattern\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\RepoPattern\obj\Debug\netstandard2.0\RepoPattern.dll
+C:\Users\Nahid Hasan\Source\Repos\CMSWithMongoDb\RepoPattern\obj\Debug\netstandard2.0\RepoPattern.pdb
